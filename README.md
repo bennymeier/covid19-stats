@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Covid-19 Stats Site
+
+## Todos
+- Changes per day
+- Summary for current country (Geolocation support needed)
+- Summary world wide
+
+## APIs used
+- https://covidtracker.bsg.ox.ac.uk/about-api
+- https://covid19api.com/
+- https://documenter.getpostman.com/view/10808728/SzS8rjbc#27454960-ea1c-4b91-a0b6-0468bb4e6712
+- https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6_0
 
 ## Available Scripts
 
